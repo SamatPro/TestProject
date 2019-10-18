@@ -1,0 +1,30 @@
+2019-10-12 16:21:01 INFO  DepartmentServiceImpl:53 - Database connection
+2019-10-12 16:21:27 INFO  DepartmentServiceImpl:59 - Getting a List
+2019-10-12 16:21:27 INFO  DepartmentRepositoryImpl:86 - data uploading from DB
+2019-10-12 16:21:27 INFO  DepartmentServiceImpl:106 - Writing data in XML file
+2019-10-12 16:22:53 INFO  DepartmentServiceImpl:53 - Database connection
+2019-10-12 16:23:05 INFO  DepartmentRepositoryImpl:86 - data uploading from DB
+2019-10-12 16:23:05 INFO  DepartmentServiceImpl:145 - Reading data from XML file
+2019-10-12 16:23:05 INFO  DepartmentServiceImpl:151 - Delet missing values
+2019-10-12 16:23:05 INFO  DepartmentServiceImpl:162 - Updating values
+2019-10-12 16:23:05 INFO  DepartmentServiceImpl:175 - Adding new values
+2019-10-12 16:23:05 INFO  DepartmentRepositoryImpl:52 - Adding  {Sofcombank, Python developer, Python}
+2019-10-12 16:23:05 INFO  DepartmentRepositoryImpl:52 - Adding  {Sberbank, Java developer, Java, Spring}
+2019-10-12 17:18:27 INFO  DepartmentServiceImpl:54 - Database connection
+2019-10-12 17:18:37 INFO  DepartmentServiceImpl:60 - Getting a List
+2019-10-12 17:18:37 INFO  DepartmentRepositoryJdbcImpl:92 - data uploading from DB
+2019-10-12 17:21:19 INFO  DepartmentServiceImpl:54 - Database connection
+2019-10-12 17:21:28 INFO  DepartmentServiceImpl:60 - Getting a List
+2019-10-12 17:21:28 INFO  DepartmentRepositoryJdbcImpl:92 - data uploading from DB
+2019-10-12 17:48:52 INFO  DepartmentServiceImpl:59 - Database connection
+2019-10-12 17:49:12 INFO  DepartmentServiceImpl:59 - Database connection
+2019-10-12 18:15:37 INFO  DepartmentServiceImpl:59 - Database connection
+2019-10-12 18:15:37 INFO  DepartmentServiceImpl:65 - Getting a List
+2019-10-12 18:15:37 INFO  DepartmentRepositoryJdbcImpl:92 - data uploading from DB
+2019-10-12 18:15:37 INFO  DepartmentServiceImpl:112 - Writing data in XML file
+2019-10-12 18:16:41 INFO  DepartmentServiceImpl:59 - Database connection
+2019-10-12 18:16:41 INFO  DepartmentRepositoryJdbcImpl:92 - data uploading from DB
+2019-10-12 18:35:50 INFO  DepartmentServiceImpl:59 - Database connection
+2019-10-12 18:35:50 INFO  DepartmentServiceImpl:65 - Getting a List
+2019-10-12 18:35:50 INFO  DepartmentRepositoryJdbcImpl:92 - data uploading from DB
+2019-10-12 18:35:50 INFO  DepartmentServiceImpl:112 - Writing data in XML file

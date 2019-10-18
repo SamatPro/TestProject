@@ -1,0 +1,7 @@
+ru\iis\soft\services\DepartmentService.class
+ru\iis\soft\resporitories\CrudRepository.class
+ru\iis\soft\models\Department$DepartmentBuilder.class
+ru\iis\soft\models\Department.class
+ru\iis\soft\mapper\RowMapper.class
+ru\iis\soft\application\Application.class
+ru\iis\soft\services\DepartmentServiceImpl.class

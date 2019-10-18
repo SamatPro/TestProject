@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departments>
+    <department>
+        <depCode>Mail.ru</depCode>
+        <depJob>Data Analyst</depJob>
+        <description>work with big data</description>
+    </department>
+    <department>
+        <depCode>VK</depCode>
+        <depJob>PHP Developer</depJob>
+        <description>php, html, mysql</description>
+    </department>
+    <department>
+        <depCode>IIS-SOFT</depCode>
+        <depJob>Java Developer</depJob>
+        <description>java, spring, docker</description>
+    </department>
+    <department>
+        <depCode>FIX</depCode>
+        <depJob>Android Developer</depJob>
+        <description>Kotlin, java</description>
+    </department>
+    <department>
+        <depCode>bars-group</depCode>
+        <depJob>Python developer</depJob>
+        <description>Django, JS</description>
+    </department>
+
+    <department>
+        <depCode>Sofcombank</depCode>
+        <depJob>Python developer</depJob>
+        <description>Python</description>
+    </department>
+
+    <department>
+        <depCode>Sberbank</depCode>
+        <depJob>Java developer</depJob>
+        <description>Java, Spring</description>
+    </department>
+</departments>
